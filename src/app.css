@@ -3,7 +3,7 @@
 :root {
     --main-bg-color: #f0f0f0;
     --main-text-color: #333;
-    --primary-color: #4CAF50;
+    --primary-color: #4caf50;
     --font-size: 18px;
 
     font-weight: 400;
@@ -36,4 +36,3 @@ img {
     object-fit: cover;
     vertical-align: middle;
 }
-
