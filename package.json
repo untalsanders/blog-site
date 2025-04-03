@@ -8,6 +8,7 @@
         "build": "tsc && vite build",
         "preview": "vite preview",
         "lint": "eslint .",
+        "check": "",
         "format": "NODE_OPTIONS=\"--experimental-strip-types --trace-warnings\" prettier . --write"
     },
     "devDependencies": {
